@@ -1,2 +1,2 @@
 # Devops
-Repo for devops practice
+Repo for devops practice.
